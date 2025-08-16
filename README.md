@@ -22,8 +22,8 @@ project/
 ├── heatmap.R                       # Script for heatmap
 ├── PDAC_microbiota_confounding.nb  # HTML file created with R Markdown for confounding effect
 │
-├── data/                      # All raw input files
-├── output/                    # Generated tables and plots
+├── data/                           # All raw input files
+├── output/                         # Generated tables and plots
 
 
 ---
