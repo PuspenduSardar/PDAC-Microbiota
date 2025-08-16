@@ -20,7 +20,7 @@ project/
 ├── 09_misc_tests.R                 # Miscellaneous test examples
 ├── run_all.R                       # Master script to run everything
 ├── heatmap.R                       # Script for heatmap
-├── PDAC_microbiota_confounding.nb  # HTML file created with R Markdown to check for confounding effect
+├── PDAC_microbiota_confounding.nb  # HTML file created with R Markdown for confounding effect
 │
 ├── data/                      # All raw input files
 ├── output/                    # Generated tables and plots
