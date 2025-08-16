@@ -1,4 +1,4 @@
-# PDAC Microbiome Analysis Pipeline
+# PDAC Microbiota Analysis Pipeline
 
 This repository contains a modular R-based analysis workflow for bile and tissue microbiome data.
 
@@ -8,18 +8,18 @@ This repository contains a modular R-based analysis workflow for bile and tissue
 
 project/
 │
-├── 01_load_packages.R # Load required libraries
-├── 02_merge_data.R # Merge bile/tissue datasets
-├── 03_stat_tests.R # t-tests and Wilcoxon rank-sum tests
-├── 04_pca_analysis.R # PCA visualizations
-├── 05_venn_diagrams.R # Venn diagram comparisons
-├── 06_boxplots.R # Boxplots using ggstatsplot
-├── 07_taxonomy_barplots.R # Genus-level taxonomy plots
-├── 08_alpha_diversity.R # Alpha diversity calculations
-├── 09_misc_tests.R # Miscellaneous test examples
-├── run_all.R # Master script to run everything
-├── data/ # All raw input files
-├── output/ # Generated tables and plots
+├─ 01_load_packages.R # Load required libraries
+├─ 02_merge_data.R # Merge bile/tissue datasets
+├─ 03_stat_tests.R # t-tests and Wilcoxon rank-sum tests
+├─ 04_pca_analysis.R # PCA visualizations
+├─ 05_venn_diagrams.R # Venn diagram comparisons
+├─ 06_boxplots.R # Boxplots using ggstatsplot
+├─ 07_taxonomy_barplots.R # Genus-level taxonomy plots
+├─ 08_alpha_diversity.R # Alpha diversity calculations
+├─ 09_misc_tests.R # Miscellaneous test examples
+├─ run_all.R # Master script to run everything
+├─ data/ # All raw input files
+├─ output/ # Generated tables and plots
 
 ---
 
